@@ -1,6 +1,6 @@
 # Todo Rust + SvelteKit
 
-<img src="./todo-rust.gif" style="width: 700px;"></img>
+https://github.com/choiexe1/todo-rust/assets/161970433/fc96ac0a-97ce-4b08-bd77-19ad8215888f
 
 - Rust
   - Axum (Web Framework)
