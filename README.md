@@ -1,5 +1,7 @@
 # Todo Rust + SvelteKit
 
+<img src="./todo-rust.gif" style="width: 700px;"></img>
+
 - Rust
   - Axum (Web Framework)
   - Tokio (Async)
