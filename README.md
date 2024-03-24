@@ -25,7 +25,6 @@ cd backend/
 
 sqlx database setup
 cargo run
-
 ```
 
 > Frontend
